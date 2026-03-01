@@ -1,4 +1,5 @@
 # AI-Driven-Health-Monitoring-Turbocor
+(Patent Pending – Detailed technical implementation confidential)
 Single-sensor AI-based pressure estimation &amp; health monitoring using vibration analytics on edge devices.
 
 This project explores a non-intrusive approach for monitoring the operational health and pressure behaviour of high-speed oil-free compressors using vibration-based intelligence.
